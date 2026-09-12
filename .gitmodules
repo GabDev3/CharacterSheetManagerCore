@@ -1,6 +1,6 @@
 [submodule "CharacterSheetManagerBackend"]
 	path = CharacterSheetManagerBackend
-	url = git@github.com:GabDev3/CharacterSheetManagerCore.git
+	url = git@github.com:GabDev3/CharacterSheetManagerBackend.git
 [submodule "CharacterSheetManagerFrontend"]
 	path = CharacterSheetManagerFrontend
-	url = git@github.com:GabDev3/CharacterSheetManagerCore.git
+	url = git@github.com:GabDev3/CharacterSheetManagerFrontend.git
